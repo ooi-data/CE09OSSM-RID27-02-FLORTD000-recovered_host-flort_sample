@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-RID27-02-FLORTD000-recovered_host-flort_sample
 data_stream: CE09OSSM-RID27-02-FLORTD000-recovered_host-flort_sample
-end_date: '2020-07-06T19:33:16.979Z'
-last_updated: '2021-05-05T23:54:40.640592'
+end_date: '2021-03-27T15:03:16.662Z'
+last_updated: '2021-07-20T00:59:30.690529Z'
 start_date: '2015-04-09T17:30:00.000Z'
-status: success
+status: pending
