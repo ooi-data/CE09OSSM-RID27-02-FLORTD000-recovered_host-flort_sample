@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSSM-RID27-02-FLORTD000-recovered_host-flort_sample
-last_request: '2021-12-21T22:34:08.636812Z'
+last_request: '2022-01-01T01:19:07.112556Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-RID27-02-FLORTD000-recovered_host-flort_sample/main/history/response.json
-status: success
+status: pending
